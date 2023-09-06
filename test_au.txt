@@ -1,0 +1,3 @@
+kanji,kana,hirakana,level
+会う,あう,あう,1
+会う,あう,あう,1
